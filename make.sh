@@ -1,0 +1,1 @@
+g++ Main.cpp include/bitmap.cpp -o bar.exe
